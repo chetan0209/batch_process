@@ -18,7 +18,7 @@
  
  	<properties>
 		<jdk.version>1.7</jdk.version>
-		<spring.version>4.0.6.RELEASE</spring.version>
+		<spring.version>5.2.7.RELEASE</spring.version>
 		<spring.batch.version>3.0.5.RELEASE</spring.batch.version>
 		<mssql.driver.version>4.0.2206.100</mssql.driver.version>
 		<commons.version>2.1.1</commons.version>
