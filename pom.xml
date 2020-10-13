@@ -23,7 +23,7 @@
 		<mssql.driver.version>4.0.2206.100</mssql.driver.version>
 		<commons.version>2.1.1</commons.version>
 		<hsql.version>1.8.0.7</hsql.version>
-		<junit.version>4.11</junit.version>
+		<junit.version>4.13.1</junit.version>
 		<json.version>20140107</json.version>
 		<jackson.version>1.9.10</jackson.version>
 		<jtds.version>1.2</jtds.version>
